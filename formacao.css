@@ -84,12 +84,10 @@
   top: -4px;
 }
 .cursos h3::before {
-  background: url("../Portfolio/07-projeto-portfolio/0709-formacao-css/portfolio/img/cursos.svg")
-    no-repeat center center;
+  background: url("cursos.svg") no-repeat center center;
 }
 .idiomas h3::before {
-  background: url("../Portfolio/07-projeto-portfolio/0709-formacao-css/portfolio/img/idiomas.svg")
-    no-repeat center center;
+  background: url("idiomas.svg") no-repeat center center;
 }
 .formacao-extra li {
   font-size: 1.125rem;
